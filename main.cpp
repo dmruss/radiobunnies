@@ -9,7 +9,7 @@ void bunnyloop(blist list);
 
 int main() {
 
-	blist list;
+	blist list;  //creating object list of type blist
 
 	bunnyloop(list);
 
